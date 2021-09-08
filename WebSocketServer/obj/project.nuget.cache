@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JwkFQb0BBa1lg8SXR43BiifZI7Bo9xnVYUNUOcqx5JZRauDMv8hKMIb6PR20M42DPtS+0ZucM93EM1rvfNWAjA==",
+  "success": true,
+  "projectFilePath": "E:\\2\\coding\\dotnet Community\\Web\\WebSocketChatApp\\WebSocketServer\\WebSocketServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
